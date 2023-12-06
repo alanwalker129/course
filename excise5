@@ -1,0 +1,16 @@
+<h1>Excersice page</h1>
+<body>
+    <script>
+        var a=prompt("is it your birthday?");
+        if(a=="yes")
+        {
+            document.write("happy birthday!");
+        }
+        else{
+            if(a=="no")
+            {
+                document.write("have a nice da!");
+            }
+        }
+    </script>
+</body>
